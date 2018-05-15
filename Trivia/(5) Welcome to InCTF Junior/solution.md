@@ -1,7 +1,7 @@
 # Welcome to InCTF Junior
 
 Catagory | Points | Players solved
-----------------------------------
+---------|--------|---------------
 Trivia | 5 | 154
 
 ## Description
