@@ -10,6 +10,6 @@ Trivia | 10 | 82
 >
 >Flag format: inctfj{flag_in_lower_case}
 
-##Solution
+## Solution
 
 Flag == inctfj{backtrack}
