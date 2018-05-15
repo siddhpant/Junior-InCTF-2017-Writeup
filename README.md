@@ -1,7 +1,7 @@
 # Junior InCTF Writeup
 Writeups for Junior InCTF 2017, by 1337_siddh (Ranked #3).
 
-## About me:
+## About me
 
 Player Name : 1337_siddh
 
