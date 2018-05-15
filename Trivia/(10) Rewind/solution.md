@@ -1,7 +1,7 @@
-#Rewind 10 Trivia
+# Rewind
 
 Catagory | Points | Players solved
-----------------------------------
+---------|--------|----------------
 Trivia | 10 | 82
 
 ## Description
