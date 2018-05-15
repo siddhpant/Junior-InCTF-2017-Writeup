@@ -12,4 +12,6 @@ Trivia | 10 | 82
 
 ## Solution
 
+It is BackTrack, which has now paved way for Kali Linux. You can take a look at the Wikipedia page: https://en.wikipedia.org/BackTrack
+
 Flag == inctfj{backtrack}
