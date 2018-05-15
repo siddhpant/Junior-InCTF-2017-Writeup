@@ -1,17 +1,8 @@
 # Welcome to InCTF Junior
 
-<table>
-<tr>
-    <th>Category</th>
-    <th>Points</th>
-    <th>Player solved</th>
-</tr>
-<tr>
-    <td>Trivia</td>
-    <td>5</td>
-    <td>154</td>
-</tr>
-</table>
+Catagory | Points | Players solved
+----------------------------------
+Trivia | 5 | 154
 
 ## Description
 
