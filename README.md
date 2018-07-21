@@ -1,7 +1,7 @@
 # Junior InCTF Writeup
 Writeups for Junior InCTF 2017, by 1337_siddh (Ranked #3).
 
-Note: Writeup is incomplete as they removed the challenges as I was writing this writeup.
+Note: Writeup is incomplete as they removed the challenges as I was writing this writeup. ??? in solutions indicate that I don't know what was there and I vaguely from my memory provided the solution.
 
 ## About me
 
