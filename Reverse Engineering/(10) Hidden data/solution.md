@@ -2,7 +2,7 @@
 
 Catagory | Points | Players solved
 ---------|--------|---------------
-Trivia | 10 | ???
+Reverse Engineering | 10 | ???
 
 ## Description
 
