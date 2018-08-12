@@ -33,6 +33,27 @@ Yay we passed our first check!
 
 Muggle numbers! :thinking:
 
-The code is taking the numbers, then puts it in a list after 
+The code is taking the numbers, removes spaces between them, then puts it in a list after XORing it with the ASCII decimals of inp1, that is, of Muggles. Then it compares the string (made out of converting the XOR decimal output to ASCII) to some other string.
 
-(I will complete this later).....
+We can use XOR properties here to reverse engineer. We know `A XOR B = C` implies `A XOR C = B`. We can do the same here.
+
+```python
+inp1 = "Muggles"
+a = "=:P3_7R"
+list2=[]
+for i in range(len(inp1)):
+    list2.append(chr(ord(inp1[i])^ord(a[i])))
+fix="".join(list2)
+print fix
+```
+Output == `pO7T3R!`
+
+We can now convert this ASCII to decimal. So the input is:
+
+`112 079 055 084 051 082 033`
+
+And we pass our second test!
+
+### Step 3
+
+(TODO)
